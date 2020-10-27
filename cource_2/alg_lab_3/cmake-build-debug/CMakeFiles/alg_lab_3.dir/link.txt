@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/alg_lab_3.dir/main.c.o  -o alg_lab_3 

@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/alg_lab_3.dir/main.c.o  -o alg_lab_3 
