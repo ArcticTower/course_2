@@ -1,0 +1,3 @@
+C:/Users/OGm0N/CLionProjects/MakeSign/cmake-build-debug/CMakeFiles/MakeSign.dir
+C:/Users/OGm0N/CLionProjects/MakeSign/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/OGm0N/CLionProjects/MakeSign/cmake-build-debug/CMakeFiles/rebuild_cache.dir
