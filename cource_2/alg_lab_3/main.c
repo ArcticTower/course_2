@@ -215,18 +215,9 @@ int cleartext()
     }
     return 0;
 }
-
+////Todo: remove goto
+////Todo: add comments
 int main() {
-////time
-//seconds = end_time.tv_sec - start_time.tv_sec;
-//useconds = end_time.tv_usec - start_time.tv_usec;
-//milli_time = (long)((long double) (((long double)seconds) * 1000) + (long double)((long double)useconds/1000.0));
-//if(num==0){M2 = milli_time;}
-//else{
-//M2 = (long)(((long double)M2 +(long double)milli_time)/2);
-//}
-//printf("2 time spend:%ld\n",milli_time);
-////end time
     struct timeval start_time, end_time;
     long seconds, useconds,milli_time;
     struct timeval t_reandomseed;
