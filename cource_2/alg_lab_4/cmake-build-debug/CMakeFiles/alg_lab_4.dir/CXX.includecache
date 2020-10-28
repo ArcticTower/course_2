@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tgpsun/repo/cource_2/alg_lab_4/main.cpp
+iostream
+-
+utility
+-
+algorithm
+-
+vector
+-
+boost/graph/graph_traits.hpp
+-
+boost/graph/adjacency_list.hpp
+-
+boost/graph/kruskal_min_spanning_tree.hpp
+-
+boost/graph/prim_minimum_spanning_tree.hpp
+-
+
