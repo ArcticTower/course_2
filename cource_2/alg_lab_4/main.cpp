@@ -73,9 +73,9 @@ int main(int argc, char *argv[]){
                 <<" - "
                 <<p[i]+1
                 <<std::endl;
-            w_s += get(weight, boost::edge(p[i],i,g).first);
+           // w_s += get(weight, boost::edge(p[i],i,g).first);
         }
-        std::cout<<"Общая тяжесть:"<<w_s<<std::endl;
+        //std::cout<<"Общая тяжесть:"<<w_s<<std::endl;
 
         }else{goto ch;}
     int ch2;
