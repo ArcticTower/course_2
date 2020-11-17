@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/alg_lab_5.dir/main.cpp.o  -o alg_lab_5 
