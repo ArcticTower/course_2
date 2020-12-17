@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tgpsun/repo/cource_2/EVM_5/main.c
+stdio.h
+-
+fcntl.h
+-
+unistd.h
+-
+linux/input.h
+-
+sys/stat.h
+-
+
