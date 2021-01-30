@@ -1,3 +1,0 @@
-/home/tgpsun/repo/cource_2/alg_lab_4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tgpsun/repo/cource_2/alg_lab_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tgpsun/repo/cource_2/alg_lab_4/cmake-build-debug/CMakeFiles/alg_lab_4.dir
