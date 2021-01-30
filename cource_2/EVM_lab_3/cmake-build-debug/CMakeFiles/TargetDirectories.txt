@@ -1,3 +1,0 @@
-/home/tgpsun/repo/cource_2/EVM_lab_3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/tgpsun/repo/cource_2/EVM_lab_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tgpsun/repo/cource_2/EVM_lab_3/cmake-build-debug/CMakeFiles/EVM_lab_3.dir

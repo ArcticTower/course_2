@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/EVM_lab_3.dir/main.c.o  -o EVM_lab_3 
