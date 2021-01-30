@@ -1,1 +1,0 @@
-/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/untitled6.dir/main.c.o  -o untitled6 
